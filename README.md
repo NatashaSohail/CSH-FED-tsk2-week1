@@ -12,7 +12,7 @@ page. </p>
   <li>Style the links to change their appearance (e.g., color, background) when a user 
        hovers over them.</li>
 <h4> <b> KEY CONCEPT </b></h4>
-<pre>  CSS Flexbox
+<pre>       CSS Flexbox
        position: fixed
        styling anchor tags (<a>)
        pseudo classes (:hover). </pre>
